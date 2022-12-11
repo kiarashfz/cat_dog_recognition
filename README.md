@@ -19,7 +19,7 @@ $ source venv/bin/activate
 ```bash
 $ pip install requirements.txt
 ```
-> **_NOTE:_**  By this command you install just jupyter notebook. Some requirements' installation are commented in the code.
+> **_NOTE:_**  By this command you'll install just jupyter notebook. Some requirements' installation are commented in the code.
 #### 4. The final step is running jupyter notebook and use it in your browser.
 ```bash
 $ jupyter notebook
